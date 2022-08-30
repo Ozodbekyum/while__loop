@@ -1,6 +1,6 @@
 void main() {
   int y = 0;
-  for (int i = 50; i < 1000; i++) {
+  for (int i = 50; i <= 1000; i++) {
     y += i;
   }
   print(y);
