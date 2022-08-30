@@ -1,6 +1,6 @@
 void main() {
   int y = 0;
-  for (int i = 0; i < 100; i++) {
+  for (int i = 0; i <= 100; i++) {
     if (i % 2 == 0) {
       y += i;
     }
